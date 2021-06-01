@@ -23,7 +23,9 @@ Humus
 Here they come, the gothic soil, geez
 
 Latosol
+
 ![Red_407](https://user-images.githubusercontent.com/74973390/120382460-dea22b00-c34d-11eb-9ab0-35ff04fa787c.jpeg)
+
 Very fancy colour, ruby version of soil
 
 Clay
