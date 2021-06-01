@@ -37,7 +37,7 @@ Clay
 
 ![Clay_131 (1)](https://user-images.githubusercontent.com/74973390/120383627-4f961280-c34f-11eb-8616-112548e2d930.jpeg)
 
-Wow, what a multitalent soil, we can even grow here?
+Wow, what a multitalent soil, from soil to vase, really?
 
 
 
