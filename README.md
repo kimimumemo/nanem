@@ -22,7 +22,9 @@ Aluvial
 They look like chocolate to me, yum!
 
 Humus
-![Black_23 (1)](https://user-images.githubusercontent.com/74973390/120379900-a3522d00-c34a-11eb-837e-f15251ef6050.png)
+
+![Black_23 (1)](https://user-images.githubusercontent.com/74973390/120383461-19589300-c34f-11eb-8ddd-a35b9f3ccf7a.jpeg)
+
 Here they come, the gothic soil, geez
 
 Latosol
@@ -32,7 +34,9 @@ Latosol
 Very fancy colour, ruby version of soil
 
 Clay
-![Muddy-Covered-Feet](https://user-images.githubusercontent.com/74973390/120380339-3be8ad00-c34b-11eb-9ed1-cbb840d86117.jpg)
+
+![9014925-hand-of-child-playing-in-muddy-dirt-and-water](https://user-images.githubusercontent.com/74973390/120383500-26758200-c34f-11eb-8864-8830d25564b4.jpg)
+
 Wow, what a multitalent soil, we can even grow here?
 
 
