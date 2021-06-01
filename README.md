@@ -35,7 +35,7 @@ Very fancy colour, ruby version of soil
 
 Clay
 
-![9014925-hand-of-child-playing-in-muddy-dirt-and-water](https://user-images.githubusercontent.com/74973390/120383500-26758200-c34f-11eb-8864-8830d25564b4.jpg)
+![Clay_131 (1)](https://user-images.githubusercontent.com/74973390/120383627-4f961280-c34f-11eb-8616-112548e2d930.jpeg)
 
 Wow, what a multitalent soil, we can even grow here?
 
