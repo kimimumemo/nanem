@@ -9,13 +9,16 @@ Capstone Project Bangkit Academy
 5. Check the weather gradually
 
 ![Untitled](https://user-images.githubusercontent.com/74973390/120377950-fe365500-c347-11eb-82ce-0bd3c8ed1f25.gif)
+
 Voila, you can grow your own plant!
 
 # Scan
 There are 4 classfication in nanem, which are
 
 Aluvial
-![Alluvial_35 (1)](https://user-images.githubusercontent.com/74973390/120379829-81f14100-c34a-11eb-9570-19009a953c46.png)
+
+![Alluvial_35 (1)](https://user-images.githubusercontent.com/74973390/120382744-393b8700-c34e-11eb-89b0-bef9151a66e4.jpeg)
+
 They look like chocolate to me, yum!
 
 Humus
