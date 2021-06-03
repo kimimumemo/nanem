@@ -15,7 +15,7 @@ Voila, you can grow your own plant!
 # Scan
 There are 4 classfication in nanem, which are
 
-Aluvial
+Alluvial
 
 ![Alluvial_35 (1)](https://user-images.githubusercontent.com/74973390/120382744-393b8700-c34e-11eb-89b0-bef9151a66e4.jpeg)
 
