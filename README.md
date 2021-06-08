@@ -21,7 +21,7 @@ Capstone Project Bangkit Academy
 Voila, you can grow your own plant!
 
 # Scan <a name="scan"></a>
-There are 4 classfication in nanem, which are
+There are currently 4 classfication in nanem, which are
 
 Alluvial <a name="alluvial"></a>
 
