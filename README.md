@@ -2,24 +2,14 @@
 Capstone Project Bangkit Academy
 
 # Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
+1. [How to use](#introduction)
+2. [Scan](#paragraph1)
+    1. [Alluvial](#alluvial)
+    2. [Humus](#humus)
+    3. [Latosol](#latosol)
+    4. [Clay](#clay)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
-# How to use
+# How to use <a name="use"></a>
 1. Open the application
 2. Scan your soil
 3. Pick your future seeds
@@ -30,28 +20,28 @@ The second paragraph text
 
 Voila, you can grow your own plant!
 
-# Scan
+# Scan <a name="scan"></a>
 There are 4 classfication in nanem, which are
 
-Alluvial
+Alluvial <a name="alluvial"></a>
 
 ![Alluvial_35 (1)](https://user-images.githubusercontent.com/74973390/120382744-393b8700-c34e-11eb-89b0-bef9151a66e4.jpeg)
 
 They look like chocolate to me, yum!
 
-Humus
+Humus <a name="humus"></a>
 
 ![Black_23 (1)](https://user-images.githubusercontent.com/74973390/120383461-19589300-c34f-11eb-8ddd-a35b9f3ccf7a.jpeg)
 
 Here they come, the gothic soil, geez
 
-Latosol
+Latosol <a name="latosol"></a>
 
 ![Red_407](https://user-images.githubusercontent.com/74973390/120382460-dea22b00-c34d-11eb-9ab0-35ff04fa787c.jpeg)
 
 Very fancy colour, ruby version of soil
 
-Clay
+Clay <a name="clay"></a>
 
 ![Clay_131 (1)](https://user-images.githubusercontent.com/74973390/120383627-4f961280-c34f-11eb-8616-112548e2d930.jpeg)
 
