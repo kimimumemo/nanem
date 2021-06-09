@@ -1,6 +1,6 @@
-# nanem
-Capstone Project Bangkit Academy
-
+<p align="center">
+<img src="/docs/logo1.png" alt="logo" width="120" height="160">
+    
 # Table of contents
 1. [About nanem](#abt)
 2. [How to use](#introduction)
@@ -29,5 +29,12 @@ Voila, you can grow your own plant!
 # Scan <a name="scan"></a>
 There are currently 4 classfication in nanem, which are
 
-
+<img src="/docs/tanah github.001.jpeg" alt="tanah" width="600" height="350">
+  
+# Documentation
+* [nanem Dataset](https://github.com/kimimumemo/nanem/blob/main/nanem_dataset.zip)
+* [nanem Notebook](https://github.com/kimimumemo/nanem/blob/main/Nanem_Final.ipynb)
+* [nanem Android](https://github.com/kimimumemo/nanem-android.git)
+* [nanem Application](https://bit.ly/nanem-app)    
+    
 
