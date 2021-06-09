@@ -29,7 +29,7 @@ Voila, you can grow your own plant!
 # Scan <a name="scan"></a>
 There are currently 4 classfication in nanem, which are
 
-<img src="/docs/tanah github.001.jpeg" alt="tanah" width="600" height="300">
+<img src="/docs/tanah github.001.jpeg" alt="tanah" width="600" height="335">
   
 # Documentation
 * [nanem Dataset](https://github.com/kimimumemo/nanem/blob/main/nanem_dataset.zip)
