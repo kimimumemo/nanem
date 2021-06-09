@@ -3,17 +3,13 @@
     
 # Table of contents
 1. [About nanem](#abt)
-2. [How to use](#introduction)
-3. [Scan](#paragraph1)
-    1. [Alluvial](#alluvial)
-    2. [Humus](#humus)
-    3. [Latosol](#latosol)
-    4. [Clay](#clay)
+2. [How to use](#use)
+3. [Classification](#class)
+4. [Documentation](#doc)
+
 
 # About nanem <a name="abt"></a>
 As an agricultural society, Indonesia should have prospering food security, especially during a pandemic like this. Moreover, the fourth industrial revolution has had a positive impact on various sectors including the agricultural sector. However, the lack of knowledge about agriculture in today's generation and limited innovation for the development of the agricultural sector has made the goal for food security and modernizing the agriculture sector harder to reach. Therefore we feel a need to contribute to the betterment of the Indonesian agricultural sector. We decided to make a soil classification app. Our application is aimed at the general public and the agriculturist to recognize certain soils through the soil color.
-
-# 
 
 # How to use <a name="use"></a>
 1. Open the application
@@ -26,12 +22,12 @@ As an agricultural society, Indonesia should have prospering food security, espe
 
 Voila, you can grow your own plant!
 
-# Scan <a name="scan"></a>
+# Classification <a name="class"></a>
 There are currently 4 classfication in nanem, which are
 
 <img src="/docs/tanah github.001.jpeg" alt="tanah" width="600" height="335">
   
-# Documentation
+# Documentation <a name="doc"></a>
 * [nanem Dataset](https://github.com/kimimumemo/nanem/blob/main/nanem_dataset.zip)
 * [nanem Notebook](https://github.com/kimimumemo/nanem/blob/main/Nanem_Final.ipynb)
 * [nanem Android](https://github.com/kimimumemo/nanem-android.git)
