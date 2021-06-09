@@ -29,22 +29,5 @@ Voila, you can grow your own plant!
 # Scan <a name="scan"></a>
 There are currently 4 classfication in nanem, which are
 
-Alluvial <a name="alluvial"></a>
-
-They look like chocolate to me, yum!
-
-Humus <a name="humus"></a>
-
-Here they come, the gothic soil, geez
-
-Latosol <a name="latosol"></a>
-
-Very fancy colour, ruby version of soil
-
-Clay (Liat in Bahasa) <a name="clay"></a>
-
-Our multitalent soil, from soil to vase. 
-#impressive
-
 
 
