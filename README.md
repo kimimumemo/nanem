@@ -2,7 +2,7 @@
 Capstone Project Bangkit Academy
 
 # Table of contents
-1. About nanem(#abt)
+1. [About nanem](#abt)
 2. [How to use](#introduction)
 3. [Scan](#paragraph1)
     1. [Alluvial](#alluvial)
